@@ -1,4 +1,4 @@
-package com.example.getrestapi
+package com.example.trygetapi
 
 import android.content.Context
 import android.view.LayoutInflater
