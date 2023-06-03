@@ -1,4 +1,4 @@
-package com.example.getrestapi
+package com.example.trygetapi
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
