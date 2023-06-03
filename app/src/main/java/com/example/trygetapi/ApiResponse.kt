@@ -1,4 +1,4 @@
-package com.example.getrestapi
+package com.example.trygetapi
 
 import com.google.gson.annotations.SerializedName
 
